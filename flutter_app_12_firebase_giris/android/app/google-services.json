@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55493941515",
+    "firebase_url": "https://flutterfirebasegirisislemleri.firebaseio.com",
+    "project_id": "flutterfirebasegirisislemleri",
+    "storage_bucket": "flutterfirebasegirisislemleri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55493941515:android:8d351516edf43ac3fcea0e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_12_firebase_giris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55493941515-jqp2ff4gce5dhj351tvll7lg31vvmdpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_12_firebase_giris",
+            "certificate_hash": "76c42b679d206f95d935da0a8f4d4ab8fef3f9a6"
+          }
+        },
+        {
+          "client_id": "55493941515-6ld399eu3bsr1ct4b7a6tt9nvkti7je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAdgvD69YWijrzzxWbBM-7-o_MHUavU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55493941515-6ld399eu3bsr1ct4b7a6tt9nvkti7je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
